@@ -1,0 +1,2 @@
+
+test-server ansible_host=51.20.34.53 ansible_connection=ssh ansible_user=ubuntu
